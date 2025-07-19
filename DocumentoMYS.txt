@@ -1,0 +1,21 @@
+Reporte
+Alumnos: Perez Nicolas, Baez Lautaro y Mira                                                                                                                                                                                                                                                  
+Curso: 7°3.
+Profesor: Fernando Roberto Collareda.
+
+Avances del proyecto:
+1° etapa.
+ Creamos el gantt con los avances previstos para determinadas fechas, al terminar divimos las tareas entre los miembros del grupo. Tuvimos problemas con su realizacion: dificultad para entender como funciona la pagina; errores al cambiar las fechas y registrar los datos.
+
+ Al finalizar el gantt recolectamos informacion util para desarrollar el proyecto: como tendremos que hacer la interfaz grafica, como sera la base de datos, que aplicaciones y herramientas utilizaremos y referencias. Encontrar la informacion necesaria tomo mas tiempo del debido.
+
+  Desarrollamos el boceto de la interfaz grafica en el tiempo adecuado.
+
+ Desarrollamos el boceto de la base de datos en un tiempo un poco desfasado: Esquema y modelo Entidad-Relación. 
+  
+
+2° etapa.
+
+
+
+
